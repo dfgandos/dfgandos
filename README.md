@@ -1,9 +1,8 @@
 ## Darlan Francisco, estudante de ciência da computação e apaixonado por tecnologia!
 
 <p align="center">
-  <img alt="Chacha" src="preview.mp4" width="100%">
+  <img alt="Chacha" src="preview.gif" width="100%">
 </p>
-
 <div align="center">
   <a href="https://github.com/dfgandos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dfgandos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
