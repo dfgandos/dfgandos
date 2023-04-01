@@ -1,5 +1,5 @@
 
-## Darlan Francisco, estudante de ciência da computação e apaixonado por tecnologia!
+## Darlan Francisco, cientista da computação pela PUC Minas e apaixonado por tecnologia!
 
 <p align="center">
   <img alt="Chacha" src="preview.gif" width="100%">
