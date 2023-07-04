@@ -1,5 +1,5 @@
 
-## Darlan Francisco, cientista da computação pela PUC Minas e apaixonado por tecnologia!
+## Darlan Francisco, graduado em ciência da computação pela PUC Minas e apaixonado por tecnologia!
 
 <p align="center">
   <img alt="Chacha" src="preview.gif" width="100%">
