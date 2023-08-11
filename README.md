@@ -2,7 +2,7 @@
 # Hello world! I'm Darlan 👋
 
 <div id="header" align="center">
-  <img src="./avatar-sitting.png" width="200"/>
+  <img src="./avatar-sitting.png" width="300"/>
 </div>
 
 <div id="badges" align="center">
