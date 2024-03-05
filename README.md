@@ -11,7 +11,7 @@
 </div>
 
 
-### :woman_technologist: About Me 
+### :woman_technologist: Sobre mim 
 
 - 💻: Sou formado em Ciência da Computação e atuo profissionalmente como Desenvolvedor de Software com foco em Java.
 
