@@ -1,5 +1,5 @@
 
-# Hello world! I'm Darlan 👋
+# Olá Mundo! Eu sou Darlan 👋
 
 <div id="header" align="center">
   <img src="./avatar-sitting.png" width="275"/>
@@ -13,11 +13,11 @@
 
 ### :woman_technologist: About Me 
 
-- 💻: I graduated in Computer Science and work professionally as a Software Engineer with a focus on Java.
+- 💻: Sou formado em Ciência da Computação e atuo profissionalmente como Desenvolvedor de Software com foco em Java.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Linguagens e ferramentas:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
